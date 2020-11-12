@@ -1,0 +1,7 @@
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\bin\Debug\Kovács Márk 20201112 Órai.exe.config
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\bin\Debug\Kovács Márk 20201112 Órai.exe
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\bin\Debug\Kovács Márk 20201112 Órai.pdb
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\obj\Debug\Kovács Márk 20201112 Órai.csprojAssemblyReference.cache
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\obj\Debug\Kovács Márk 20201112 Órai.csproj.CoreCompileInputs.cache
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\obj\Debug\Kovács Márk 20201112 Órai.exe
+C:\Users\Glory PC\source\repos\Kovács Márk 20201112 Órai\Kovács Márk 20201112 Órai\obj\Debug\Kovács Márk 20201112 Órai.pdb
